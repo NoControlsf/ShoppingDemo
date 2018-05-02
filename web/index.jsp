@@ -1340,9 +1340,9 @@
         </div>-->
 
 
-<script src="https://www.tps138.com/themes/mall/js/main.js?v=20180423"></script>
-<script src="https://www.tps138.com/themes/mall/js/base.js?v=20170614"></script>
-<script src="https://www.tps138.com/ucenter_theme/js/jquery.cookie.js?v=1"></script>
+<script src="js/main.js?v=20180423"></script>
+<script src="js/base.js?v=20170614"></script>
+<script src="js/jquery.cookie.js?v=1"></script>
 <script>
     //定义统计流量请求地址
     window.GETDATEURL = 'https://tps-report.tps138.com/'
